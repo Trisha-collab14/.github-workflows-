@@ -26,3 +26,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          ![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg)
